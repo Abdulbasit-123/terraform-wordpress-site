@@ -1,1 +1,1 @@
-This is the starting point for Building a Terraform Demo, in the Introduction to Terraform course.
+This is the building of a wordpress site using Terraform
